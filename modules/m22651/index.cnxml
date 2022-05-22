@@ -1,0 +1,142 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:bib="http://bibtexml.sf.net/">
+
+<title>Processing Sounds</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m22651</md:content-id>
+  <md:title>Processing Sounds</md:title>
+  <md:abstract>This module is part of a term research project for the class Linguistics 411: Neurolinguistics at Rice University. The project focuses on current research concerning the neuronal structures and processes involved with the perception of music.</md:abstract>
+  <md:uuid>c672e6c1-83aa-4c17-82f5-da5be3643a5f</md:uuid>
+</metadata>
+
+<content>
+ 
+ <para id="delete_me"><title>Introduction</title>Hearing is a very complex process involving a very long tract of highly specialized mechanisms. No matter whether the stimulus is a complex sound or a simple pure tone, extensive processing takes place both before and after the sound reaches the cerebral cortex.</para><para id="eip-146">For the scope of this project, the focus will be on research examining the initial coding of sounds that takes place in the spiral ganglion structure of the cochlea as well as the processing which occurs after the representation of a sound has reached the auditory cortices of the cerebral cortex. Due to the presence of extensive cross-connections along the ascending auditory pathway, the majority of research focuses on the the spiral ganglion located near the beginning of the pathway.  It is very difficult to test other areas of the pathway because of the presence of these extensive cross-connections, and in order to successfully explore other segments, bilateral lesions to the pathway are necessary but rarely occur naturally.</para>
+
+
+
+
+<section id="fs-id1166384439648"><title>The Ascending Auditory Pathway</title><para id="eip-283">Before sounds can be processed by the auditory cortices of the cerebral cortex, they must first reach the cortex. In order to do so the sound must be encoded and re-encoded several times as the trains of neuronal action potential ascend the auditory pathway. The ascending auditory pathway consists of many different structures that are involved in the processing of sounds. <link target-id="fs-id8049749"/> shows a simplified representation of the auditory pathway. The first structure involved with processing sounds is the cochlea, a structure that functions by means of detecting pressure changes associated with the acoustic wave of any given sound. The structure is filled with watery liquid that moves in response to the acoustic vibrations. The animation in <link target-id="eip-id1170940439128"/> demonstrates how the cochlea might respond to various forms of tonal stimuli.  </para>
+
+<figure id="fs-id8049749"><media id="fs-id4364513" alt="">
+<image mime-type="image/png" src="../../media/Aud_pathway.png" print-width="3in"/>
+</media>
+<caption>Simple representation of the Auditory Pathway. </caption></figure>
+<figure id="eip-id1170940439128">
+<media id="myvid" alt="asdasf">
+ <flash mime-type="application/x-shockwave-flash" height="344" width="425" src="http://www.youtube.com/v/dyenMluFaUw&amp;hl=en&amp;fs=1">
+
+  <param name="movie" value="http://www.youtube.com/v/dyenMluFaUw&amp;hl=en&amp;fs=1"/>
+  <param name="allowFullScreen" value="true"/>
+  <param name="allowscriptaccess" value="always"/>
+ </flash>
+</media>
+</figure>
+
+
+<para id="eip-972">Contained within the spiral structure of the cochlea is the spiral ganglion, a group of nerve cells that encode and transmit a representation of sounds from the cochlea to the brain(see <link target-id="eip-id1170527734470"/>.
+ It is estimated that between 35,000 and 50,000 neurons exist in the spiral ganglion. The axons of the spiral ganglion cells respond to information from sensory receptors in the cochlea and these trains of action potentials continue through the other structures of the ascending auditory pathway, until they reach and are processed by the auditory cortices.</para>
+<figure id="eip-id1170527734470"><media id="eip-id1170530941636" alt="">
+<image src="../../media/sganglion.png" mime-type="image/png" print-width="3in"/>
+</media>
+</figure>
+
+
+</section>
+
+
+<section id="eip-907"><title>The Auditory Cortex</title><para id="eip-774">The auditory cortex is divided into three parts:
+<list id="eip-id1170958470142">
+<item>Primary Auditory Cortex</item>
+<item>Secondary Auditory Cortex</item>
+<item>Tertiary Auditory Cortex</item>
+</list>
+These three structures are situated concentrically to one another with the primary auditory cortex (PAC) located in the middle and the tertiary auditory cortex located on the outside. The cortex is found on the posterior superior temporal gyrus and portions of the planum temporal and Heschl's gyrus. The PAC is located in Broadmann areas 41 and 42.
+</para>
+<figure id="eip-id1170956869947"><media id="eip-id1170957726662" alt="">
+<image src="../../media/Primary_auditory_cortex.PNG" mime-type="image/PNG" print-width="3in"/>
+</media>
+</figure><section id="eip-429"><title>Tonotopic Organization</title><para id="eip-631">At the cortical level, perception of pitch is arranged according  to a frequency spectrum. Each pitch frequency corresponds to a "best frequency"<link target-id="bid1"/>  site. According to Liégeois-Chauvel et. al. (2001) "for most auditory neurons, a "best frequency" (or BF) can be deteremined at which low-intensity auditory stimulus evoke the greatest electrophysiological response in a given region." This means that each neuron corresponds to a specific frequency.  
+</para><para id="eip-750">The auditory cortex is arranged systematically according to these best-frequency regions. There is an ordered change in these sites with low frequencies (500 HZ)  represented laterally or closer to the surface of the cortex and high frequencies represented medially or closer to the center of the brain.<link target-id="bid1"/>
+<!--117-->
+ <link target-id="eip-id1172406127762"/> created by Liégeois-Chauvel et al. (2001) shows a schematic representation of the tonotopic organization of the auditory cortices of both the left and right hemispheres.</para>
+<figure id="eip-id1172406127762"><media id="eip-id1172423871101" alt="">
+<image src="../../media/tonotopic8.png" mime-type="image/png" width="500" print-width="3.5in"/>
+</media>
+</figure><para id="eip-875">Information about the organization of the human auditory cortex has been gathered using a variety of techniques. In particular, positron emission tomography (PET) and magnetoencephalography  (MEG) provided the initial clues as to how the cortex was organized.</para><para id="eip-255"><title>PET Study</title>A PET study carried out by Lauter et al. (2001) observed an increase in regional cerebral blood flow to a deeper and more posterior location in the temporal lobe when the stimulus was a high frequency than when the stimulus was a low frequency.<link target-id="bid1"/>
+<!--118 -->
+This provided some evidence as to the location of neurons that process specific ranges of frequencies, but with PET the spatial and temporal resolution was not powerful enough to conclude anything with certainty. 
+</para><para id="eip-246"><title>MEG Study</title>Similarly, some MEG studies have shown that the processing of higher frequencies involved more medial regions of the Heschl's gyrus, whereas lower frequencies involve more lateral areas.<link target-id="bid1"/>
+<!--118--></para><section id="eip-932"><title>Intracerebrally Recorded Auditory Evoked Potentials</title><para id="eip-90">At the date of the study by Liégeois-Chauvel et al. that is about to be explored in some depth, most information that had been gathered about the functional organization of the human auditory cortex "had been limited to the use of either scalp-recorded auditory evoked potentials (AEPs), which have relatively poor spatial resolving power, or functional imagery techniques, which have poor temporal resolving power."<link target-id="bid1"/> The current study records intracerebrally evoked potentials in the auditory cortices of both hemispheres of the human brain. The objective of the study was to investigate the tonotopic organization of the auditory cortices in both hemispheres and examine any differentiation between the function and/or organization of the different hemispheres.
+</para><para id="eip-25">The study involved 45 adults with medically intractable partial epileptic seizures. 31 of the subjects had the origin of the seizures in the right hemisphere and the other 14 had seizures originating in the left hemisphere. In order to gather the data, electrodes were implanted orthogonally in the lateral part of the Heschl's gyrus and planum temporale. The subjects were awake and alert throughout the procedure, which involved auditory stimuli of 30-millisecond tone bursts of frequencies ranging from 250 Hertz to 4 kiloHertz with an intensity of 70 decibels.<link target-id="bid1"/> The results gathered from the experiment exposed some specific differences between the organization of the different hemispheres.</para><para id="eip-310">The right hemisphere demonstrated clear spectrally organized tonotopic maps with distinct separations between different frequency processing regions. Also, the auditory evoked potentials (AEPs) for high frequencies were recorded medially whereas AEPs for low frequencies were recorded laterally. In the left hemisphere the tonotopic organization was less evident, and pitch specificity was less well defined. In addition the greatest electrophysiological response was observed at a range of frequencies between 600 Hertz and 2 kiloHertz.<link target-id="bid1"/>
+<!--124--></para><para id="eip-571"><title>Conclusion</title>Based upon this evidence the researchers concluded that the auditory cortices are composed of "frequency dependent tonotopic maps."<link target-id="bid1"/><!--127-128--> Yet, these maps were concluded to be more complex and more hemisphere specific than previously thought, especially in relation to the medial versus lateral representations of different frequencies. Still, there was a conclusion that the best frequency sites are organized with high frequencies located in medial regions of the PAC and low frequencies in more lateral regions. These best frequencies "were highly stable from patient to patient in spite of intersubject variability in localization and orientation of the PAC."<link target-id="bid1"/></para><para id="eip-974">Perhaps the most significant finding of this study was the differentiation in response selectivity between neurons in the right versus the left hemisphere. According to this study, "neurons in the right auditory cortex were more sharply tuned to frequency than neurons in the homologous region of the left hemisphere."<link target-id="bid1"/><!-- 129--> The researchers suggest that this might be a clue indicating hemispheric specialization, with spectral or frequency related information being processed primarily in the right Heschl's gyrus. </para></section></section>
+</section>
+
+</content>
+<bib:file>
+
+
+
+<bib:entry id="bid1">
+  <bib:article>
+  <bib:author>Catherine Liégeois-Chauvel, Kimberly Giraud, Jean-Michel Badier, Patrick Marquis, and Patrick Chauvel</bib:author> 
+  <bib:title>Intracerebral Evoked Potentials in Pitch Perception Reveal a Functional Asymmetry of the Human Auditory Cortex</bib:title> 
+  <bib:journal>Annals of the New York Academy of Sciences</bib:journal> 
+  <bib:year>2001</bib:year> 
+  <bib:volume>930</bib:volume> 
+  <bib:pages>117- 132</bib:pages> 
+ <!-- <bib:eid>Robert J. Zatorre and isabelle Peretz</bib:eid> -->
+  </bib:article>
+  </bib:entry>
+
+
+ <bib:entry id="bid3">
+ <bib:article>
+  <bib:author>Timothy D. Griffiths</bib:author> 
+  <bib:title>The Neural Processing of Complex Sounds</bib:title> 
+  <bib:journal>Annals of the New York Academy of Sciences</bib:journal> 
+  <bib:year>2001</bib:year> 
+  <bib:volume>930</bib:volume> 
+  <bib:pages>133-142</bib:pages> 
+<!--  <bib:eid>Robert J. Zatorre and isabelle Peretz</bib:eid> -->
+  </bib:article>
+  </bib:entry>
+  <bib:entry id="bid4">
+  <bib:article>
+  <bib:author>Mark Jude Tramo, Peter A. Cariani, Bertrand Delgutte, and Louis D. Braida</bib:author> 
+  <bib:title>Neurobiological Foundations for the Theory of Harmony in Western Tonal Music</bib:title> 
+  <bib:journal>Annals of the New York Academy of Sciences</bib:journal> 
+  <bib:year>2001</bib:year> 
+  <bib:volume>930</bib:volume> 
+  <bib:pages>92-116</bib:pages> 
+ <!-- <bib:eid>Robert J. Zatorre and isabelle Peretz</bib:eid> -->
+  </bib:article>
+  </bib:entry>
+ <bib:entry id="bid5">
+ <bib:article>
+  <bib:author>Isabelle Peretz</bib:author> 
+  <bib:title>Brain Specialization for Music: New Evidence from Congenital Amusia</bib:title> 
+  <bib:journal>Annals of the New York Academy of Sciences</bib:journal> 
+  <bib:year>2001</bib:year> 
+  <bib:volume>930</bib:volume> 
+  <bib:pages>153-165</bib:pages> 
+<!--  <bib:eid>Robert J. Zatorre and isabelle Peretz</bib:eid> -->
+  </bib:article>
+  </bib:entry>
+
+ <bib:entry id="bid7">
+ <bib:article>
+  <bib:author>Séverine Samson, Nathalie Ehrlé, and Michel Baulac</bib:author> 
+  <bib:title>Cerebral Substrates for Musical Temporal Processes</bib:title> 
+  <bib:journal>Annals of the New York Academy of Sciences</bib:journal> 
+  <bib:year>2001</bib:year> 
+  <bib:volume>930</bib:volume> 
+  <bib:pages>166-178</bib:pages> 
+<!--  <bib:eid>Robert J. Zatorre and isabelle Peretz</bib:eid>--> 
+  </bib:article>
+  </bib:entry>
+
+</bib:file>
+
+
+
+</document>

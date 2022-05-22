@@ -1,0 +1,143 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:bib="http://bibtexml.sf.net/">
+
+<title>Dimensions of Music</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m22649</md:content-id>
+  <md:title>Dimensions of Music</md:title>
+  <md:abstract>This module is part of a term research project for the class Linguistics 411: Neurolinguistics at Rice University. The project focuses on current research concerning the neuronal structures and processes involved with the perception of music.</md:abstract>
+  <md:uuid>4e988cb7-bed4-4972-a79c-c1215d5d4083</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">Music has a vertical and a horizontal dimension. The vertical dimension is composed of relationships of notes occurring simultaneously. By musical convention, a note is a pitch frequency in the musical scale, and "harmonic interval" refers to the distance between two notes sounded simultaneously. This is commonly referred to as harmony. Harmony is a basic element of music, and is one of the most highly developed elements in western music. Intervals are often described as being either consonant or dissonant. Consonant means simply that the interval seems stable and pleasant, while dissonant implies the opposite: unstable and unpleasant. Obviously there is some subjectivity in declaring an interval to be consonant or dissonant, but whether by convention or natural biological response, to the western ear there is a general consensus about which intervals are consonant and which are dissonant.
+<list id="eip-id1171705664949"><title>Intervals Commonly Considered Consonant</title><item>unison</item>
+<item>octave</item>
+<item>perfect fourth</item>
+<item>perfect fifth</item>
+<item>major third</item>
+<item>minor sixth</item>
+<item>minor third</item>
+<item>major sixth</item>
+</list>
+<list id="eip-id8832160"><title>Intervals Commonly Considered Dissonant</title><item>minor second</item>
+<item>tritone (augmented fourth or diminished fifth) </item>
+<item>major seventh</item>
+<item>major second</item>
+<item>minor sixths</item>
+<item>minor seventh</item>
+</list>
+
+The horizontal dimension of music is an even more basic element, composed of relationships among a succession of notes and silent pauses. This is the temporal element of music. </para><para id="eip-863">According to Timothy Griffiths, there are three basic categories of musical features that are processed by the brain when listening to music: <list display="inline">
+<item>simple acoustic features</item>
+<item>complex acoustic features</item>
+<item>semantic features</item>
+</list>.
+Simple acoustic features are things such as intensity (loudness), frequency (pitch) and onset, while complex acoustic features are patterns of frequencies, onsets, intensities, or a combination of any or all of the above as a function of time. Finally the semantic features are "learned associations of sound patterns and meanings."<link target-id="bid3"/><!--133-->. In relation to the horizontal and vertical dimensions of music, simple features would constitute the vertical dimension where the horizontal dimension would be represented by the complex acoustic features.</para><section id="eip-91"><title>The Vertical Dimension Represented Physiologically</title><para id="eip-845">
+<quote id="eip-id1170520296724" display="block">
+As long as several simple tones of a sufficiently different pitch enter the ear together the sensation due to each remains undisturbed in the ear probably because entirely different bundles of [auditory] nerve fibers are affected. But tones of the same, or of nearly the same pitch, which therefore affect the same nerve fibers, do not produce a sensation which is the sum of the two they would have separately excited, but new and peculiar phenomena arise which we term interference… and beats… Rapidly beating tones are jarring and rough… the sensible impression is also unpleasant. Consonance is a continuous, dissonance an intermittent tone sensation. The nature of dissonance is simply based on very fast beats. These are rough and annoying to the auditory nerve.
+</quote>
+<cite> Hermann von Helmholtz (1863 and 1885) <cite-title>On the Sensations of Tone as a Physiological Basis for the Theory of Music</cite-title></cite>
+</para><para id="eip-997">Above is a quote by a German physician and physicist who made significant contributions to the our understanding of the perception of sound. The research presented below concerning the perception of consonances and dissonances confirms von Helmholtz's assumptions almost exactly.</para><section id="eip-15"><title>A Breif Explanation of the Overtone Series</title><para id="eip-730">Before we continue on, there is a concept we need to understand in order to fully comprehend the research presented below. A pitch produced by a musical instrument or voice is "composed of a <term>fundamental</term> frequency and <term>harmonics</term> or <term>overtones</term>."(<cite url="http://cnx.org/content/m15439/latest/"> Doering</cite>)
+These components of sounds establish the timbre of a particular instrument, based on the relative strength and number produced by the instrument.(<cite url="http://cnx.org/content/m11654/latest">Jones</cite>) The reason a trumpet sounds different from a clarinet or a human voice, even when all are producing the same note, is due to the relative strength and number of harmonics (or overtones) present in the sound. Despite the presence of harmonics the listener perceives only a single tone, but the presence of these harmonics greatly affects our perception of harmonic intervals and chords as being consonant or dissonant.
+</para></section><section id="eip-202"><title>Examining the Neurological Representation of Consonance and Dissonance</title><para id="eip-968">The study by Tramo et al. (2001) compares the acoustic representation of several intervals and the trains of action potentials produced by the auditory nerve fibers of a population of 100 cats hearing the same intervals. It is important to keep in mind the information presented about the <link document="m22651" target-id="fs-id1166384439648">ascending auditory pathway</link> <!-- how we hear module-->. Auditory nerve fibers are the central axons of the spiral ganglion cells that transmit synaptic information to the cochlear nucleus neurons in the brainstem. When an interval is sounded the nerve fibers corresponding to the frequencies present in that interval will fire. Virtually all information about sound is transmitted to the brain through trains of action potentials produced by these synapses.<link target-id="bid4"/><!--101--></para><para id="eip-197">First the researchers examined the acoustic waveforms and their corresponding autocorrelations (the cross-correlation of a signal with itself, to find disguised repeating patterns) for four different intervals. Two of the intervals, the perfect fourth and fifth, are considered consonant, while the other two, the minor second and tritone, are considered dissonant. When looking at the acoustic representations of the consonant harmonic intervals there is a clear pattern of peaks and the autocorrelation is perfectly periodic. The period of the autocorrelation corresponds to the fundamental of bass of the interval. Yet with the dissonant intervals, there was no true periodicity. Instead the acoustic spikes occurred inconsistently. </para>
+
+<figure id="eip-id1165664407361"><media id="eip-id8829709" alt="">
+<image mime-type="image/png" src="../../media/acoustic wave 8.png" width="400" print-width="3.5in"/>
+</media>
+<caption>The acoustic representation of the sound waveforms and the corresponding autocorrelations for each interval. This image was created by Tramo, Cariani, Delgutte &amp; Braida. (2001)
+
+
+
+</caption></figure><para id="eip-576">Using 100 cats, the experimenters measured the firings of the auditory nerve fibers on the cat's cochlear nucleus using electrodes implanted in the brainstem. Similar to the best frequencies in the section on <link document="m22651" target-id="eip-429">tonotopic organization</link> <!--how we hear--> there is frequency selectivity present with the spiral ganglion cells and the nerve fiber "will only increase the number of action potentials it fires if it is sensitive to the frequencies present in the interval."<link target-id="bid4"/><!--101--></para><para id="eip-161">Using the data collected, the researchers measured the the intervals between the spikes and then constructed an all-order histogram for the interspike intervals (ISIs). This all-order histogram is equivalent to the autocorrelation of the acoustic waveforms. In examining the histogram for the consonant intervals, it is obvious that the major peaks appear with clear periodicity corresponding to the fundamental bass. Dissonant harmonic intervals' ISIs are irregular and contain little or no representation of pitches corresponding to notes in the interval or the fundamental bass.<link target-id="bid4"/><!--103-->  As was seen in the autocorrelation, there is again no clear periodicity of spikes. The neural response appears to mirror the acoustic representation of the intervals.</para>
+
+<figure id="eip-id1171706386398"><media id="eip-id1171711822254" alt="">
+<image mime-type="image/png" src="../../media/ISI8.png" print-width="3.5in" width="400"/>
+</media>
+<caption>The all-order histogram produced by Liégeois-Chauvel et al. showing the the interspike intervals produced by the auditory nerve fibers of 100 cat subjects.</caption></figure>
+
+<para id="eip-219">The reason that the consonant intervals' autocorrelations and histograms exhibit a clear periodicity and the dissonant intervals fail to demonstrate this relates back to the overtone series. Existing with each note of an interval are the inherent harmonics. The notes in consonant intervals, such as the perfect fourth and fifth, have some of the same overtones. Thus, the harmonic series of each note reinforces the other. However, the harmonics of the notes in the dissonant intervals, such as the tritone and minor second, do not reinforce each other in this way. This results in periodic amplitude fluctuations, known as beats, which make the tone combination sound rough or unpleasant. The audio example below presents a comparison of a perfect fifth followed by another fifth with the top note slightly lowered resulting in a clear example of beats.
+<figure id="eip-id1165666706914"><media id="audio" alt="A comparison of two intervals: the first is a perfect fifth that is in tune, while the second has the fifth of the interval slightly lowered resulting in clearly audible beats.">
+  <video src="http://www.kylegann.com/32-4027.mp3" mime-type="audio/mp3" autoplay="false"/>
+
+ </media><caption>A comparison of two intervals: the first is a perfect fifth that is in tune, while the second has the fifth of the interval slightly lowered resulting in clearly audible beats.</caption></figure></para></section><section id="eip-408"><title>Lesion Study</title><para id="eip-562">In another study, a patient, MHS, who had bilateral lesion of the auditory cortices, was examined. In this study the experimenter presented the patient with either a major triad or a major triad with the top note slightly flattened, similar to the audio example presented above. After the chord was presented the patient was asked to indicate whether the chord was out of tune or properly tuned. The patient answered with an accuracy of 56% which is two standard deviations below the norm of 13 controls. 
+<link target-id="bid4"/><!--111--></para><para id="eip-359">There are two possible interpretations of MHS's results.
+<list id="eip-id1165663766417"><item>MHS was having difficulty extracting the pitches of chord frequency components and analyzing their harmonic relationships</item>
+
+<item>He heard more roughness in the chords than the controls because his effective critical bandwidths were wider. (less precision of pitch perception )<link target-id="bid4"/>
+<!--111--></item></list>
+</para><para id="eip-474">In addition to his inability to recognize the tuning of the chords, in another study he also demonstrated an impairment in his ability to detect the direction of pitch change between two notes. This was determined using a pitch discrimination test where the subject must identify whether the pitch is going up or down. The changes in frequency get progressively smaller. MHS "performed poorly in the final third of the test where the ΔFs [changes in frequency] were smallest."<link target-id="bid4"/><!--109--></para></section><para id="eip-510"><title>Conclusion</title>Drawing on the evidence presented by these studies we can conclude that representation of roughness or dissonance exists in the patterns of neural activity at both the level of the auditory nerve fibers, as seen in the trains of action potentials of the spiral ganglion cells, and in the cerebral cortex, specifically the auditory cortices and the planum temporale. In addition there is a clearly inverse relationship between the amount of temporal fluctuation in amplitude and perception of consonance, or put more simply, the more beat present in a sound, the less consonant it seems. Finally, bilateral lesions to the auditory cortices can lead to severe impairments in perception of consonance with a particular bias to perceive well-tuned chords as out of tune.  </para></section><section id="eip-336"><title>The Neurological Representation of the Horzontal Dimension of Music</title><para id="eip-148">
+As mentioned before the horizontal dimension of music is encompassed by patterns of frequencies, onsets, intensities or a combination of any or all of the above as a function of time. Several studies have been performed at the level of the cortex to determine where processing of temporal information occurs. The results of these studies lack any definite conclusions as to where temporal information is processed, with the exception of the processing of rapid temporal information.
+</para><para id="eip-991">Efron (2001) performed an experiment in which two tones of different frequencies separated by a silent pause were presented to brain damaged patients. The  patients were asked to judge the temporal order of the two tones. The results showed that "aphasic patients with left-hemisphere lesions required longer intervals [of time](between 140 and 400ms) to discriminate temporal order than nonaphasic patients"<link target-id="bid7"/><!--167-->. The control subjects took on average only 75ms to identify the temporal order. </para><para id="eip-476">Similarly, Tallal and Newman examined the effects of selective damage to either the left or right hemisphere of the cortex. Their study concluded that damage to the left hemisphere disrupted the patients' ability to process two tones that were separated by a short interval of 300ms or less. Yet, damage to either side of the cortex had no effect on the patients' ability to process the two tones when longer silent intervals were used.<link target-id="bid7"/><!--167--> </para><para id="eip-127">When measuring intracerebrally evoked potentials resulting from the stimuli of syllables, Liégeois-Chauvel et al. (2001) "demonstrated a specialization of the left auditory cortex for speech perception that depends on rapid temporal coding."<link target-id="bid7"/> <!--168--> This information supports the hypothesis that the left-hemisphere structures are predominantly involved in the processing of rapid sequential information, and thus it can be hypothesized that these same structures serve a similar function with the processing of rapid temporal information contained in music.</para><section id="eip-224"><title>The Effect of Tempo on Irregularity Discrimination</title><para id="eip-602">Samson et al. (2001) conducted an experiment that confirms that the left hemisphere does in fact process rapid temporal information in music. The objective of the experiment was to "test the effect of tempo on irregularity discrimination in patients with unilateral lesions to the temporal lobe."<link target-id="bid7"/><!--169-->  The experimenters played two successive sequences of a single tone repeated five times. One of the sequences presented contained regular silent intervals between the onsets of the tones, but the other contained irregular silent intervals. The patients were asked to judge which of the two sequences was regular or irregular. The duration of the silent intervals between the tones of the sequence were referred to as the "interonset intervals" and the various durations used were 80, 300, 500, 800, or 1000ms. This procedure was carried out on a total of 24 subjects: 8 with right hippocampal atrophy, 10 with left hippocampal atrophy, and 6 normal controls.<link target-id="bid7"/> <!--169--> 
+
+</para><para id="eip-588">The test confirmed the results of previous studies. At the rapid tempo, the interonset interval of 80ms, irregularity discrimination thresholds were significatly reduced for patients with damage to the left hemisphere.<link target-id="bid7"/><!--171-->  Of course the opportunity for error was higher at the faster tempos no matter whether the patient had cerebral damage or not, but the results show a marked deficit for patients with left hemisphere damage as opposed to the other two subject categories. Again in agreement with previous studies, this data shows that damage to left hemisphere affected only the processing of fast temporal information, while slow temporal information processing was spared. In addition, damage to the right hemisphere resulted in very little difference in the ability to process rapid temporal information, and slow temporal processing was also normal.</para></section><para id="eip-958"><title>Conclusion</title>From the information presented the only thing that is consistently confirmed is the role of the left hemisphere in processing of rapid temporal information. Mentioned previously, Griffiths refers to temporal information as a complex feature of music. Perhaps drawing on this idea of complexity we can hypothesize that with the exception of rapid temporal processing, sound patterns occurring as a function of time presented at a relatively slower rate require multiple structure to be successfully processed. Since the sounds are occurring in time and are heard as phrases rather than individual notes and silences, short term memory could be utilized to process the sound phrase as a unit. This could explain why only rapid temporal information, the information needing immediate processing, has a specific localization, whereas the slower phrase could utilize an extensive neuronal web, employing many different brain structures to processes specific pieces of the whole. Unfortunately, I did not come across any papers on this subject while doing my research, and certainly further research in this direction is needed to substantiate this hypothesis. </para></section>
+</content>
+
+
+<bib:file>
+
+
+
+<bib:entry id="bid1">
+  <bib:article>
+  <bib:author>Catherine Liégeois-Chauvel, Kimberly Giraud, Jean-Michel Badier, Patrick Marquis, and Patrick Chauvel</bib:author> 
+  <bib:title>Intracerebral Evoked Potentials in Pitch Perception Reveal a Functional Asymmetry of the Human Auditory Cortex</bib:title> 
+  <bib:journal>Annals of the New York Academy of Sciences</bib:journal> 
+  <bib:year>2001</bib:year> 
+  <bib:volume>930</bib:volume> 
+  <bib:pages>117- 132</bib:pages> 
+ <!-- <bib:eid>Robert J. Zatorre and isabelle Peretz</bib:eid> -->
+  </bib:article>
+  </bib:entry>
+
+
+ <bib:entry id="bid3">
+ <bib:article>
+  <bib:author>Timothy D. Griffiths</bib:author> 
+  <bib:title>The Neural Processing of Complex Sounds</bib:title> 
+  <bib:journal>Annals of the New York Academy of Sciences</bib:journal> 
+  <bib:year>2001</bib:year> 
+  <bib:volume>930</bib:volume> 
+  <bib:pages>133-142</bib:pages> 
+<!--  <bib:eid>Robert J. Zatorre and isabelle Peretz</bib:eid> -->
+  </bib:article>
+  </bib:entry>
+  <bib:entry id="bid4">
+  <bib:article>
+  <bib:author>Mark Jude Tramo, Peter A. Cariani, Bertrand Delgutte, and Louis D. Braida</bib:author> 
+  <bib:title>Neurobiological Foundations for the Theory of Harmony in Western Tonal Music</bib:title> 
+  <bib:journal>Annals of the New York Academy of Sciences</bib:journal> 
+  <bib:year>2001</bib:year> 
+  <bib:volume>930</bib:volume> 
+  <bib:pages>92-116</bib:pages> 
+ <!-- <bib:eid>Robert J. Zatorre and isabelle Peretz</bib:eid> -->
+  </bib:article>
+  </bib:entry>
+ <bib:entry id="bid5">
+ <bib:article>
+  <bib:author>Isabelle Peretz</bib:author> 
+  <bib:title>Brain Specialization for Music: New Evidence from Congenital Amusia</bib:title> 
+  <bib:journal>Annals of the New York Academy of Sciences</bib:journal> 
+  <bib:year>2001</bib:year> 
+  <bib:volume>930</bib:volume> 
+  <bib:pages>153-165</bib:pages> 
+<!--  <bib:eid>Robert J. Zatorre and isabelle Peretz</bib:eid> -->
+  </bib:article>
+  </bib:entry>
+
+ <bib:entry id="bid7">
+ <bib:article>
+  <bib:author>Séverine Samson, Nathalie Ehrlé, and Michel Baulac</bib:author> 
+  <bib:title>Cerebral Substrates for Musical Temporal Processes</bib:title> 
+  <bib:journal>Annals of the New York Academy of Sciences</bib:journal> 
+  <bib:year>2001</bib:year> 
+  <bib:volume>930</bib:volume> 
+  <bib:pages>166-178</bib:pages> 
+<!--  <bib:eid>Robert J. Zatorre and isabelle Peretz</bib:eid>--> 
+  </bib:article>
+  </bib:entry>
+
+</bib:file>
+
+
+
+</document>
